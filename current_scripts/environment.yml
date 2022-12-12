@@ -1,0 +1,7 @@
+name: connectivity_dilemma_env
+
+dependencies:
+  - numpy = 1.23
+  - pandas = 1.4
+  - matplotlib
+  - seaborn
